@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/kmathur7/Attendance_backend",
   "dependencies": {
-    "express": "^4.12.2"
+    "express": "^4.12.2",
+    "body-parser": "^1.12.0"
   }
 }
